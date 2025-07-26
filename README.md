@@ -2,4 +2,4 @@
 
 This is my personal portfolio.
 
-[View Live](https://shyaamsundar.me/)
+[View Here](https://shyaamsundar.me/)
